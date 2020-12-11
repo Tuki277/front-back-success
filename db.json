@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "san pham 1",
+      "price": 500,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "san pham 2",
+      "price": 300,
+      "status": false
+    },
+    {
+      "name": "san pham 34",
+      "price": "1000",
+      "check": true,
+      "id": 3
+    }
+  ]
+}
